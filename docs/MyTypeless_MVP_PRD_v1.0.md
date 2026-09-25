@@ -998,6 +998,7 @@ Mapping:
 - Send `language=en`.
 
 Default:
+
 ```text
 Auto
 ```
@@ -1997,6 +1998,7 @@ Do not overuse.
 ## 28. App Review Compliance Requirements
 
 Before release, verify the current Apple App Review Guidelines.
+
 MVP must satisfy at least these keyboard expectations:
 
 - Provides typed-character functionality.
